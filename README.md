@@ -52,6 +52,6 @@
 [website]: https://mohitjaisal.com
 [linkedin]: https://linkedin.com/in/mohitjaisal
 [twitter]: https://twitter.com/mohitjaisal
-[facebook]: https://facebook.com/in/mohitjaisal
+[facebook]: https://facebook.com/mohitjaisal
 [instagram]: https://instagram.com/mohit.jaisal
 [medium]: https://medium.com/@mohitjaisal
