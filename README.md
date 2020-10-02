@@ -1,5 +1,3 @@
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=red" alt="mohitjaisal" /> </p>
-
 # Hi there, I'm Mohit Jaisal  👋
 
 [![Website](https://img.shields.io/website?label=mohitjaisal.com&style=for-the-badge&url=https%3A%2F%2Fmohitjaisal.com)](https://mohitjaisal.com)
