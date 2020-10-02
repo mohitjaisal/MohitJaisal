@@ -1,9 +1,11 @@
 # Hi there, I'm Mohit Jaisal  👋
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=red" alt="mohitjaisal" /> </p>
 
 [![Website](https://img.shields.io/website?label=mohitjaisal.com&style=for-the-badge&url=https%3A%2F%2Fmohitjaisal.com)](https://mohitjaisal.com)
 
 
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
+
 
 - 🔭 I’m currently working on some [Web Dev Projects][website]!
 - 🌱 I’m currently learning AWS and Google Cloud Services
