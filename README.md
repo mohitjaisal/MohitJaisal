@@ -1,6 +1,6 @@
 # Hi there, I'm Mohit Jaisal  👋
 
-[![Website](https://img.shields.io/website?label=mohitjaisal.com&style=for-the-badge&url=https%3A%2F%2Fmohitjaisal.com)](https://mohitjaisal.com)
+[![Website](https://img.shields.io/website?label=mohtjaisal.com&style=for-the-badge&url=https%3A%2F%2Fmohitjaisal.com)](https://mohitjaisal.com)
 
 
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
