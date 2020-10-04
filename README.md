@@ -5,7 +5,6 @@
 
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
 
-
 - 🔭 I’m currently working on some [Web Dev Projects][website]!
 - 🌱 I’m currently learning AWS and Google Cloud Services
 - 👯 I'm looking for opportunities to work with some organisations
