@@ -6,7 +6,7 @@
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
 
 - 🔭 I’m currently working on some [Web Dev Projects][website]!
-- 🌱 I’m currently learning AWS and Google Cloud Services
+- 🌱 I’m currently learning AWS, Azure and Google Cloud Services
 - 👯 I'm looking for opportunities to work with some organisations
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch Netflix series based on AI & Space (Favourite Series: The 100)
