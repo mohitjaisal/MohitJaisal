@@ -1,4 +1,5 @@
 # Hi there, I'm Mohit Jaisal  👋
+![](https://komarev.com/ghpvc/?username=mohitjaisal&color=orange)
 
 [![Website](https://img.shields.io/website?label=mohitjaisal.com&style=for-the-badge&url=https%3A%2F%2Fmohitjaisal.com)](https://mohitjaisal.com)
 
