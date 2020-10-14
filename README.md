@@ -1,8 +1,8 @@
-# Hi there, I'm Mohit Jaisal  👋
-![](https://komarev.com/ghpvc/?username=mohitjaisal&color=orange)
-
-[![Website](https://img.shields.io/website?label=mohitjaisal.com&style=for-the-badge&url=https%3A%2F%2Fmohitjaisal.com)](https://mohitjaisal.com)
-
+# Hi there , I'm Mohit Jaisal 
+<br>
+<img align="center" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
+<br>
+<img align="center" src="https://img.shields.io/badge/mohitjaisal.com-website-orange" />
 
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
 
