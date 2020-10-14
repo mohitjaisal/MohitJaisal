@@ -1,8 +1,7 @@
-# Hi there , I'm Mohit Jaisal 
+# Hi there <img src="https://github.com/mohitjaisal/ImageStore/blob/master/GifStore/hey-gif.gif" width="3%"/>, I'm Mohit Jaisal 
 <br>
-<img align="center" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
-<br>
-<img align="center" src="https://img.shields.io/badge/mohitjaisal.com-website-orange" />
+<img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
+<img href="https://mohitjaisal.com" src="https://img.shields.io/badge/mohitjaisal.com-website-orange" />
 
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
 
