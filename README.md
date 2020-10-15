@@ -1,7 +1,7 @@
-# Hi there <img src="https://github.com/mohitjaisal/ImageStore/blob/master/GifStore/hey-gif.gif" width="3%"/>, I'm Mohit Jaisal 
+
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
-<img href="https://mohitjaisal.com" src="https://img.shields.io/badge/mohitjaisal.com-website-orange" />
+<a href="https://mohitjaisal.com"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/mohitjaisal.com-Portfolio.svg" /></a>
 
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
 
