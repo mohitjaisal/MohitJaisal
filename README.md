@@ -1,7 +1,7 @@
-<a href="https://mohitjaisal.com"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/GifStore/Raw-Gif/mohitjaisal-intro-gif.gif"></a>
+<a target="_blank" href="https://mohitjaisal.com"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/GifStore/Raw-Gif/mohitjaisal-intro-gif.gif"></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
-<a align="left" href="https://mohitjaisal.com"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/mohitjaisal.com-Portfolio.svg" /></a>
+<a align="left" href="https://mohitjaisal.com" target="_blank"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/mohitjaisal.com-Portfolio.svg" /></a>
 
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
 
