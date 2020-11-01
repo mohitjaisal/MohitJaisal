@@ -24,7 +24,7 @@
 
 ## Skills
 
-<a href="https://mohitjaisal.com"><img align="center" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/CvSkills.png" width="60%"></a>
+<a href="https://mohitjaisal.com"><img align="center" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/CvSkills.png" width="80%"></a>
 
 
 
