@@ -24,8 +24,6 @@
 ### Languages and Tools:
 
 
-### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/css.png" />
