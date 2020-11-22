@@ -5,12 +5,11 @@
 <a href="https://linkedin.com/in/mohitjaisal"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/LinkedIn-badge-Mohit%20Jaisal.svg" />
 <img align="right" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
 </p>
-  
-<img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
+
 
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
 
-- 🔭 I’m currently working on some [Web Dev Projects][website]!
+- 🔭 I’m currently working on some React.Js Projects
 - 🌱 I’m currently learning Gatsby
 - 👯 I'm looking for opportunities to work with some organisations
 - 🥅 2020 Goals: Contribute more to Open Source projects
