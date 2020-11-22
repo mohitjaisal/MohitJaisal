@@ -1,10 +1,11 @@
 <a target="_blank" href="https://mohitjaisal.com"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/GifStore/Raw-Gif/mohitjaisal-intro-gif.gif"></a>
 <br>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
 <a href="https://mohitjaisal.com"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/Website%20mohitjaisal.com.svg" /></a>
 <a href="https://linkedin.com/in/mohitjaisal"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/LinkedIn-badge-Mohit%20Jaisal.svg" />
 </p>
+  
+<img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
 
 ## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
 
@@ -20,7 +21,7 @@
 [<img align="left" alt="mohitjaisal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mohitjaisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mohitjaisal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mohitjaisal | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="mohitjaisal | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -47,6 +48,7 @@
 
 <br />
 <br />
+
 
 ---
 
