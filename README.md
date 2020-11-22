@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://mohitjaisal.com"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/Website%20mohitjaisal.com.svg" /></a>
 <a href="https://linkedin.com/in/mohitjaisal"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/LinkedIn-badge-Mohit%20Jaisal.svg" />
+<img align="right" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
 </p>
   
 <img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
