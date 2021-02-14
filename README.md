@@ -3,8 +3,8 @@
 
 <p align="center">
   <em>
-    I am a 2nd Year undergraduate student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India. <br>
-    20 years of living a comical life! <br>
+    I am a 2nd Year undergraduate student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
+    Pursuing Bachelor of Technology in <b>Computer Science & Engineering<b><br>
     Born with <a href="https://mohitjaisal.com"> <b>Leadership</b> </a>qualities<br>
     <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/ShushantRaghuvanshi/random/blob/main/465.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
