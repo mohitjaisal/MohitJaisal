@@ -1,60 +1,127 @@
-<a target="_blank" href="https://mohitjaisal.com"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/GifStore/Raw-Gif/mohitjaisal-intro-gif.gif"></a>
+<a href="https://mohitjaisal.com"><img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/Mohit-jaisal-readme.gif" target="_blank" ></a>
 <br>
+
 <p align="center">
-<a href="https://mohitjaisal.com"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/Website%20mohitjaisal.com.svg" /></a>
-<a href="https://linkedin.com/in/mohitjaisal"><img src="https://github.com/mohitjaisal/ImageStore/blob/master/SvgStore/RawSvgs/LinkedIn-badge-Mohit%20Jaisal.svg" />
-<img align="right" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
+  <em>
+    I am a 2nd Year undergraduate student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India. <br>
+    20 years of living a comical life! <br>
+    Born with <a href="https://mohitjaisal.com"> <b>Leadership</b> </a>qualities<br>
+    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/ShushantRaghuvanshi/random/blob/main/465.gif" width="36px">  who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px">   </em>  <br>
+    I Love <b>Open-Source</b> <br>
+    <br>
+  <img align="center" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
+  <br>
+
 </p>
 
+<br>
+<p align="center">
+  
+  <a href="https://mohitjaisal.com">
+    <img src="https://github.com/ShushantRaghuvanshi/random/blob/main/globe-americas-solid.svg" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp;
+  <a href="https://twitter.com/mohitjaisal">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="45px" style="margin: 500x;" />
+  </a>&nbsp; &nbsp;
+  <a href="https://www.instagram.com/mohitjaisal">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/mohitjaisal">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp;
+  <a href="https://mohitjaisal.medium.com">
+    <img src="https://github.com/ShushantRaghuvanshi/random/blob/main/medium.svg" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp;
+  <a href="mailto:mohitjaisal.com@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="40px" style="margin: 500px;" />
+  </a>
+  
+</p>
 
-## I'm a Student of Bachelor Of Technology (Computer Science) at HBTU
+<br>
+<p align="center">
+✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" />Associate Head of Web Development at the official <a href="https://ecellhbtu.org/"> <b>Entrepreneurship Cell</b></a>, HBTU 👨‍💻
+<br>
+✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Representative of University's <a href="https://psmsc.hbtu.in/"><b>Official Newsletter (PSMSC)</b></a>💪.
+<br>
+✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Campus Ambassador at <a href="https://codingninjas.com"><b>Coding Ninjas</b></a> & <a href="https://codingblocks.com"><b>Coding Blocks</b></a>.
+<br>
+✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />Cloud Computing enthusiast <a href="https://www.qwiklabs.com/public_profiles/f0f1c629-0347-402c-be37-b8f8c49fbe3e"><b>GCP</b></a>, <a href="https://www.coursera.org/account/accomplishments/verify/A2HGLPC8T9N3"><b>AWS</b></a>, <a href="https://drive.google.com/file/d/1dSuTiq8b5n4GI0Vtinr6Msel9c2p9xA3/view"><b>Azure</b></a>🌐
+<br>
+✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />My <b>leadership</b> vision comes from passion, not position 💡.
+<br>
+✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> Volunteering through many organizations like <a href="https://dsc.community.dev/events/details/developer-student-clubs-harcourt-butler-technical-university-presents-dsc-hbtu-info-session">DSC HBTU</a>, <a href="https://developers.facebook.com/developercircles/">Facebook Developers Circle</a>, <a href="https://support.mozilla.org/en-US/user/mohitjaisal">Mozilla</a>, <a href="https://verzeo.in/">Verzeo</a> etc. 💡
+<br>
+✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my <b>Repos</b>💡 & do Leave a <b>STAR</b>⭐️ if you like my work👨‍💻.
+<br>
+</p>
+<br>
 
-- 🔭 I’m currently working on some React.Js Projects
-- 🌱 I’m currently learning Gatsby
-- 👯 I'm looking for opportunities to work with some organisations
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch Netflix series based on AI & Space (Favourite Series: The 100)
+<h2 align="center"> Programming Skills</h2>
+
+<a href="https://mohitjaisal.com">
+<p>
+   
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/1c.png"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/2cpp.png"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/3.java-horizontal.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/4js.png"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/5html.png"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/6css.png"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/7.jquery.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/8.bootstrap.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/9.nodejs.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/10.expressjs.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/11.npm.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/12.reactjs.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/13.firebase.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/14.mongodb.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/15.sass.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/16.gatsbyjs.svg"></code>
+ 
+ 
+  
+   
+   <img width="55%" align="right" alt="Mohit Jaisal's github stats" src="https://github-readme-stats.vercel.app/api?username=mohitjaisal&show_icons=true&hide_border=true"/>
+
+ 
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/17.heroku.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/18.postman.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/19.netlify.svg"></code>
+  <br />
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/20aws.png"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/21.microsoft-azure.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/22.kubernetes.svg"></code>
+  <br />
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/23.mysql.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/24.google-cloud.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/25.docker.svg"></code>
+  <br />
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/26.git.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/27.github.svg"></code>
+  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/28.visualstudio-code.svg"></code>
+  
 
 
-### Connect with me:
+</p>
+</a>
+<br>
 
-[<img align="left" alt="mohitjaisal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mohitjaisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mohitjaisal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mohitjaisal | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<h2 align="center"> My Recent post on Medium!</h2>
 
-<br />
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1" alt="Recent Article 1">   
 
-### Languages and Tools:
+<p align="center">
+<a href="https://mohitjaisal.medium.com">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp; &nbsp;
+  <a href="https://dev.to/mohitjaisal">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" height="45px" style="margin: 500px;" />
+  </a>
 
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-<br />
-<br />
-
-
----
-
-[website]: https://mohitjaisal.com
-[linkedin]: https://linkedin.com/in/mohitjaisal
-[twitter]: https://twitter.com/mohitjaisal
-[facebook]: https://facebook.com/mohitjaisal
-[instagram]: https://instagram.com/mohit.jaisal
-[medium]: https://medium.com/@mohitjaisal
+</p>
