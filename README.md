@@ -6,10 +6,10 @@
     I am a 2nd Year undergraduate student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
     Pursuing Bachelor of Technology in <b>Computer Science & Engineering</b><br>
     Born with <a href="https://mohitjaisal.com"> <b>Leadership</b> </a>qualities<br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/ShushantRaghuvanshi/random/blob/main/465.gif" width="36px">  who is <b>obsessed</b>
+    <b>A friendly Neighbourhood Developer</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/1-Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/2-Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px">   </em>  <br>
+    <b>grow</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/3-Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/4-Medal.gif" width="20px">   </em>  <br>
     I Love <b>Open-Source</b> <br>
     <br>
   <img align="center" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
@@ -43,19 +43,19 @@
 
 <br>
 <p align="center">
-✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" />Associate Head of Web Development at the official <a href="https://ecellhbtu.org/"> <b>Entrepreneurship Cell</b></a>, HBTU 👨‍💻
+✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/5-wave.gif" width="20vw" />Associate Head of Web Development at the official <a href="https://ecellhbtu.org/"> <b>Entrepreneurship Cell</b></a>, HBTU 👨‍💻
 <br>
-✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Representative of University's <a href="https://psmsc.hbtu.in/"><b>Official Newsletter (PSMSC)</b></a>💪.
+✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/6-gandalf_parrot.gif" width="20vw" /> Representative of University's <a href="https://psmsc.hbtu.in/"><b>Official Newsletter (PSMSC)</b></a>💪.
 <br>
-✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> Campus Ambassador at <a href="https://codingninjas.com"><b>Coding Ninjas</b></a> & <a href="https://codingblocks.com"><b>Coding Blocks</b></a>.
+✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/7-headbang.gif" width="20vw" /> Campus Ambassador at <a href="https://codingninjas.com"><b>Coding Ninjas</b></a> & <a href="https://codingblocks.com"><b>Coding Blocks</b></a>.
 <br>
-✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" />Cloud Computing enthusiast <a href="https://www.qwiklabs.com/public_profiles/f0f1c629-0347-402c-be37-b8f8c49fbe3e"><b>GCP</b></a>, <a href="https://www.coursera.org/account/accomplishments/verify/A2HGLPC8T9N3"><b>AWS</b></a>, <a href="https://drive.google.com/file/d/1dSuTiq8b5n4GI0Vtinr6Msel9c2p9xA3/view"><b>Azure</b></a>🌐
+✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/8-hmm.gif" width="20vw" />Cloud Computing enthusiast <a href="https://www.qwiklabs.com/public_profiles/f0f1c629-0347-402c-be37-b8f8c49fbe3e"><b>GCP</b></a>, <a href="https://www.coursera.org/account/accomplishments/verify/A2HGLPC8T9N3"><b>AWS</b></a>, <a href="https://drive.google.com/file/d/1dSuTiq8b5n4GI0Vtinr6Msel9c2p9xA3/view"><b>Azure</b></a>🌐
 <br>
-✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" />My <b>leadership</b> vision comes from passion, not position 💡.
+✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/10-happy.gif" width="20vw" />My <b>leadership</b> vision comes from passion, not position 💡.
 <br>
-✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> Volunteering through many organizations like <a href="https://dsc.community.dev/events/details/developer-student-clubs-harcourt-butler-technical-university-presents-dsc-hbtu-info-session">DSC HBTU</a>, <a href="https://developers.facebook.com/developercircles/">Facebook Developers Circle</a>, <a href="https://support.mozilla.org/en-US/user/mohitjaisal">Mozilla</a>, <a href="https://verzeo.in/">Verzeo</a> etc. 💡
+✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/9-coin.gif" width="20vw" /> Volunteering through many organizations like <a href="https://dsc.community.dev/events/details/developer-student-clubs-harcourt-butler-technical-university-presents-dsc-hbtu-info-session">DSC HBTU</a>, <a href="https://developers.facebook.com/developercircles/">Facebook Developers Circle</a>, <a href="https://support.mozilla.org/en-US/user/mohitjaisal">Mozilla</a>, <a href="https://verzeo.in/">Verzeo</a> etc. 💡
 <br>
-✱<img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my <b>Repos</b>💡 & do Leave a <b>STAR</b>⭐️ if you like my work👨‍💻.
+✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/4-Medal.gif" width="20vw" /> Have a look at my <b>Repos</b>💡 & do Leave a <b>STAR</b>⭐️ if you like my work👨‍💻.
 <br>
 </p>
 <br>
