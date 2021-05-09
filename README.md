@@ -73,7 +73,6 @@
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/7.jquery.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/8.bootstrap.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/15.sass.svg"></code>
-  
   <br/>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/9.nodejs.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/10.expressjs.svg"></code>
