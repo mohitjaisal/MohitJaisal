@@ -116,6 +116,10 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1" alt="Recent Article 1">   
 
+  
+  <a href="https://mohitjaisal.com"><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitjaisal&" alt="mohitjaisal" /></p></a>
+  
+  
 <p align="center">
 <a href="https://mohitjaisal.medium.com">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" height="45px" style="margin: 500px;" />
