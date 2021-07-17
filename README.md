@@ -12,7 +12,10 @@
     <b>excel.</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/4-Medal.gif" width="20px">   </em>  <br>
     I Love <b>Open-Source</b> <br>
     <br>
-  <img align="center" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=orange" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitjaisal&theme=dark&row=1&no-bg=false&no-frame=true"/>
+</h1>
+<br>
+  <img align="center" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=red" />
   <br>
 
 </p>
