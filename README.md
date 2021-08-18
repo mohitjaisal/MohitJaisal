@@ -5,18 +5,16 @@
   <em>
     I am a 2nd Year undergraduate student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
     Pursuing Bachelor of Technology in <b>Computer Science & Engineering</b><br>
-    Born with <a href="https://mohitjaisal.com"> <b>Leadership</b> </a>qualities<br>
     <b>A friendly Neighbourhood Developer</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/1-Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/2-Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/3-Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/4-Medal.gif" width="20px">   </em>  <br>
     I Love <b>Open-Source</b> <br>
     <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitjaisal&theme=dark&row=1&no-bg=false&no-frame=true"/>
+  
 </h1>
 <br>
-  <img align="center" src="https://komarev.com/ghpvc/?username=mohitjaisal&color=red" />
-  <br>
+ 
 
 </p>
 
@@ -46,6 +44,8 @@
 
 <br>
 <p align="center">
+  ✱<img alt="GIF" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/dsc_logo.png" width="20vw"/> Web Development Lead at <a href="https://dsc.hbtu.in/team"><b> Google Developer Student Clubs</b></a>.
+<br>
 ✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/5-wave.gif" width="20vw" />Associate Head of Web Development at the official <a href="https://ecellhbtu.org/"> <b>Entrepreneurship Cell</b></a>, HBTU 👨‍💻
 <br>
 ✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/6-gandalf_parrot.gif" width="20vw" /> Representative of University's <a href="https://psmsc.hbtu.in/"><b>Official Newsletter (PSMSC)</b></a>💪.
@@ -119,8 +119,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1" alt="Recent Article 1">   
 
-  
-  <a href="https://mohitjaisal.com"><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitjaisal&" alt="mohitjaisal" /></p></a>
+ 
   
   
 <p align="center">
