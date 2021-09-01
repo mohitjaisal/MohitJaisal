@@ -1,48 +1,22 @@
-<a href="https://mohitjaisal.com"><img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/Mohit-jaisal-readme.gif" target="_blank" ></a>
-<br>
 
 <p align="center">
   <em>
-    I am a 2nd Year undergraduate student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
+    I am a 3rd Year undergraduate student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
     Pursuing Bachelor of Technology in <b>Computer Science & Engineering</b><br>
     <b>A friendly Neighbourhood Developer</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/1-Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/2-Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/3-Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/4-Medal.gif" width="20px">   </em>  <br>
     I Love <b>Open-Source</b> <br>
-    <br>
-  
 </h1>
-<br>
- 
-
 </p>
 
-<br>
 <p align="center">
-  
-  <a href="https://mohitjaisal.com">
-    <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/ba820b0a2614a28dd57677aa425352a482a312ef/SvgStore/Social-Media-Icons/globe-americas-solid.svg" height="45px" style="margin: 500px;" />
-  </a>&nbsp; &nbsp;
-  <a href="https://twitter.com/mohitjaisal">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="45px" style="margin: 500x;" />
-  </a>&nbsp; &nbsp;
-  <a href="https://www.instagram.com/mohitjaisal">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="45px" style="margin: 500px;" />
-  </a>&nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/mohitjaisal">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="45px" style="margin: 500px;" />
-  </a>&nbsp; &nbsp;
-  <a href="https://mohitjaisal.medium.com">
-    <img src="https://github.com/ShushantRaghuvanshi/random/blob/main/medium.svg" height="45px" style="margin: 500px;" />
-  </a>&nbsp; &nbsp;
-  <a href="mailto:mohitjaisal.com@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="40px" style="margin: 500px;" />
-  </a>
-  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=red" /> </p>
 </p>
 
-<br>
+<table>
+  <td width="50%">
 <p align="center">
   ✱<img alt="GIF" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/dsc_logo.png" width="20vw"/> Web Development Lead at <a href="https://dsc.hbtu.in/team"><b> Google Developer Student Clubs</b></a>.
 <br>
@@ -54,13 +28,32 @@
 <br>
 ✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/8-hmm.gif" width="20vw" />Cloud Computing enthusiast <a href="https://www.qwiklabs.com/public_profiles/f0f1c629-0347-402c-be37-b8f8c49fbe3e"><b>GCP</b></a>, <a href="https://www.coursera.org/account/accomplishments/verify/A2HGLPC8T9N3"><b>AWS</b></a>, <a href="https://drive.google.com/file/d/1dSuTiq8b5n4GI0Vtinr6Msel9c2p9xA3/view"><b>Azure</b></a>🌐
 <br>
-✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/10-happy.gif" width="20vw" />My <b>leadership</b> vision comes from passion, not position 💡.
-<br>
 ✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/9-coin.gif" width="20vw" /> Volunteering through many organizations like <a href="https://developers.facebook.com/developercircles/">Facebook Developers Circle</a>, <a href="https://support.mozilla.org/en-US/user/mohitjaisal">Mozilla</a>, <a href="https://verzeo.in/">Verzeo</a> etc. 💡
 <br>
-✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/4-Medal.gif" width="20vw" /> Have a look at my <b>Repos</b>💡 & do Leave a <b>STAR</b>⭐️ if you like my work👨‍💻.
-<br>
 </p>
+</td>
+<td width="50%">
+  
+  <p align="center">
+  
+  <a href="https://mohitjaisal.com">
+    <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/ba820b0a2614a28dd57677aa425352a482a312ef/SvgStore/Social-Media-Icons/globe-americas-solid.svg" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/mohitjaisal">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp; &nbsp;
+  <a href="https://mohitjaisal.medium.com">
+    <img src="https://github.com/ShushantRaghuvanshi/random/blob/main/medium.svg" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp; &nbsp;
+  <a href="mailto:mohitjaisal.com@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="40px" style="margin: 500px;" />
+  </a>
+  
+</p>
+  
+ <img align="right" alt="Mohit Jaisal's github stats" src="https://github-readme-stats.vercel.app/api?username=mohitjaisal&show_icons=true&hide_border=true"/>
+</td>
+  </table>
 <br>
 
 <h2 align="center"> Programming Skills</h2>
@@ -76,7 +69,6 @@
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/7.jquery.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/8.bootstrap.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/15.sass.svg"></code>
-  <br/>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/9.nodejs.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/10.expressjs.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/11.npm.svg"></code>
@@ -85,25 +77,11 @@
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/14.mongodb.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/16.gatsbyjs.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/30.xd.svg"></code>
- 
- 
-  
-   
-   <img width="55%" align="right" alt="Mohit Jaisal's github stats" src="https://github-readme-stats.vercel.app/api?username=mohitjaisal&show_icons=true&hide_border=true"/>
-
- 
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/17.heroku.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/18.postman.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/19.netlify.svg"></code>
-  <br />
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/20aws.png"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/21.microsoft-azure.svg"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/22.kubernetes.svg"></code>
-  <br />
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/23.mysql.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/24.google-cloud.svg"></code>
-  <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/29.atom.svg"></code>
-  <br />
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/26.git.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/27.github.svg"></code>
   <code><img width="10%" src="https://github.com/mohitjaisal/ImageStore/blob/master/Readme-MohitJaisal/Programming-Skills/28.visualstudio-code.svg"></code>
