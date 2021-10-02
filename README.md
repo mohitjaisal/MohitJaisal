@@ -72,7 +72,7 @@
 
   
   <table>
-  <td width="60%">
+  <td width="50%">
 <p align="center">
   
 <h2 align="center"> My Recent post on Medium!</h2>
@@ -82,7 +82,7 @@
 
 </p>
 </td>
-<td width="40%">
+<td width="50%">
   
   <p align="center">
   
