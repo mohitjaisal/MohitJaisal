@@ -15,8 +15,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=red" /> </p>
 </p>
 
-<table>
-  <td width="50%">
 <p align="center">
   ✱<img alt="GIF" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/dsc_logo.png" width="20vw"/> Web Development Lead at <a href="https://dsc.hbtu.in/team"><b> Google Developer Student Clubs</b></a>.
 <br>
@@ -31,29 +29,7 @@
 ✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/9-coin.gif" width="20vw" /> Volunteering through many organizations like <a href="https://developers.facebook.com/developercircles/">Facebook Developers Circle</a>, <a href="https://support.mozilla.org/en-US/user/mohitjaisal">Mozilla</a>, <a href="https://verzeo.in/">Verzeo</a> etc. 💡
 <br>
 </p>
-</td>
-<td width="50%">
   
-  <p align="center">
-  
-  <a href="https://mohitjaisal.com">
-    <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/ba820b0a2614a28dd57677aa425352a482a312ef/SvgStore/Social-Media-Icons/globe-americas-solid.svg" height="45px" style="margin: 500px;" />
-  </a>&nbsp; &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/mohitjaisal">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="45px" style="margin: 500px;" />
-  </a>&nbsp; &nbsp; &nbsp;
-  <a href="https://mohitjaisal.medium.com">
-    <img src="https://github.com/ShushantRaghuvanshi/random/blob/main/medium.svg" height="45px" style="margin: 500px;" />
-  </a>&nbsp; &nbsp; &nbsp;
-  <a href="mailto:mohitjaisal.com@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="40px" style="margin: 500px;" />
-  </a>
-  
-</p>
-  
- <img align="right" alt="Mohit Jaisal's github stats" src="https://github-readme-stats.vercel.app/api?username=mohitjaisal&show_icons=true&hide_border=true"/>
-</td>
-  </table>
 <br>
 
 <h2 align="center"> Programming Skills</h2>
@@ -92,11 +68,43 @@
 </a>
 <br>
 
+
+
+  
+  <table>
+  <td width="60%">
+<p align="center">
+  
 <h2 align="center"> My Recent post on Medium!</h2>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohitjaisal/1" alt="Recent Article 1">   
 
+</p>
+</td>
+<td width="40%">
+  
+  <p align="center">
+  
+  <a href="https://mohitjaisal.com">
+    <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/ba820b0a2614a28dd57677aa425352a482a312ef/SvgStore/Social-Media-Icons/globe-americas-solid.svg" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/mohitjaisal">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp; &nbsp;
+  <a href="https://mohitjaisal.medium.com">
+    <img src="https://github.com/ShushantRaghuvanshi/random/blob/main/medium.svg" height="45px" style="margin: 500px;" />
+  </a>&nbsp; &nbsp; &nbsp;
+  <a href="mailto:mohitjaisal.com@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="40px" style="margin: 500px;" />
+  </a>
+  
+</p>
+  
+ <img align="right" alt="Mohit Jaisal's github stats" src="https://github-readme-stats.vercel.app/api?username=mohitjaisal&show_icons=true&hide_border=true"/>
+</td>
+  </table>
+<br>
  
   
   
