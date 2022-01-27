@@ -15,7 +15,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohitjaisal&color=red" /> </p>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   ✱<img alt="GIF" src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/dsc_logo.png" width="20vw"/> Web Development Lead at <a href="https://dsc.hbtu.in/team"><b> Google Developer Student Clubs</b></a>.
 <br>
 ✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/5-wave.gif" width="20vw" />Associate Head of Web Development at the official <a href="https://ecellhbtu.org/"> <b>Entrepreneurship Cell</b></a>, HBTU 👨‍💻
@@ -28,7 +28,7 @@
 <br>
 ✱<img alt="GIF" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/9-coin.gif" width="20vw" /> Volunteering through many organizations like <a href="https://developers.facebook.com/developercircles/">Facebook Developers Circle</a>, <a href="https://support.mozilla.org/en-US/user/mohitjaisal">Mozilla</a>, <a href="https://verzeo.in/">Verzeo</a> etc. 💡
 <br>
-</p>
+</p> -->
   
 <br>
 
