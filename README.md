@@ -3,10 +3,10 @@
   <em>
     I am a 3rd Year undergraduate student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
     Pursuing Bachelor of Technology in <b>Computer Science & Engineering</b><br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/1-Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/2-Designer.gif" width="36px">  who is <b>obsessed</b>
+    <b>A friendly Neighbourhood Developer</b> and a <b>Learning    Enthusiast,</b>&nbsp; who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and his community and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/3-Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/4-Medal.gif" width="20px">   </em>  <br>
+    <b>grow</b> and 
+    <b>excel.</b></em>  <br>
     I  🖤 <b>Open-Source</b> <br>
 </h1>
 </p>
