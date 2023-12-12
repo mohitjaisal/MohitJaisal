@@ -1,8 +1,8 @@
 
 <p align="center">
   <em>
-    I am a final Year undergrad student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
-    Pursuing Bachelor of Technology in <b>Computer Science & Engineering</b><br>
+<!--     I am a final Year undergrad student from <a href="https://hbtu.ac.in/"> <b>Harcourt Butler Technical University</b></a>, India.<br>
+    Pursuing Bachelor of Technology in <b>Computer Science & Engineering</b><br> -->
     <b>A friendly Neighbourhood Developer</b> and a <b>Learning    Enthusiast,</b>&nbsp; who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and his community and wants a <b>platform</b> to 
     <b>grow</b> and 
